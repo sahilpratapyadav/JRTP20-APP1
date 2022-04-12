@@ -7,7 +7,7 @@ import java.util.Base64.Encoder;
 public class PasswordService {
 	int i=10;
 	int k=12 //date 12-04-2022
-	
+	int j=20 // raju
 	public static String encode(String txt) {
 		
    		Encoder encode = Base64.getEncoder();
