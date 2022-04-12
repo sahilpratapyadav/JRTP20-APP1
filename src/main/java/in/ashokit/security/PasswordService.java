@@ -7,6 +7,7 @@ import java.util.Base64.Encoder;
 public class PasswordService {
 	int i=10;
 	int k=12 //date 12-04-2022
+	int kk=12// demo for sending pull request and merge
 	
 	public static String encode(String txt) {
 		
